@@ -1,5 +1,6 @@
 # rockpaperscissors
 Rock, Paper, Scissors
-- runs in the terminal
+- written in Python
+- runs in the terminal, no GUI
 - exits at the end of each hand
 - built for rock, paper, scissors only but designed to be extended to rock, paper, scissors, lizard, Spock
